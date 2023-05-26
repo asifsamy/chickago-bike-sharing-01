@@ -110,7 +110,7 @@ Two by Two Discount. The Two by Two Discount restricts the promotion to the two 
 the two lowest windows of time (**excluding the night window, 12am-6am**). Remember there are two types of users: customers and 
 subscribers.
 
-![alt text](https://github.com/asifsamy/chickago-bike-sharing-01/blob/master/images/10_trend-user-time.JPG "Logo Title Text 1")
+![alt text](https://github.com/asifsamy/chickago-bike-sharing-01/blob/master/images/10_trend-user-dashboard.JPG "Logo Title Text 1")
 
 By visualizing the dashboard created based on the above analyses (Shown in this picture), we can see in the “Trend by Weekday and 
 User Type” tree map that **Wednesday** and **Thursday** the customers have lowest usage. And from the “Trends by Hour of Day and 
