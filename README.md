@@ -118,5 +118,5 @@ Customer Type” **morning** and **evening** have the lowest usage (excluding ni
 would be best fit for 
 the promotion.
 
-[Part 2](https://github.com/asifsamy/chickago-bike-sharing-02)
+### [Part 2](https://github.com/asifsamy/chickago-bike-sharing-02)
 
